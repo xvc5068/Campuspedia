@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="14" height="8" tilewidth="159" tileheight="159" nextobjectid="1">
+ <tileset firstgid="1" name="IST_Inside" tilewidth="159" tileheight="159">
+  <image source="IST_Inside.png" width="2226" height="1272"/>
+ </tileset>
+ <tileset firstgid="113" name="meta" tilewidth="159" tileheight="159">
+  <image source="meta.png" width="159" height="159"/>
+  <tile id="0">
+   <properties>
+    <property name="collision" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="14" height="8">
+  <data encoding="base64" compression="zlib">
+   eJwNw+U2gwEAANAPYyaH6Zju6e6ODcN0d9f7/3LvOTcrCIJscwyZa55h841YYKFFFltiqVHLLLfCmJVWWW2NtdZZb4ONNhm32RZbbbPdDjvtstsee+2z34QDDjrksCOOOua4E0465bQzzjrnvAsuuuSyK6665robbrrltklT7rjrnmn3PfDQjEcee+KpZ5574aVXXnvjrXfe++CjTz774qtvvvvhp19+++Ovf/4Dr9IYuQ==
+  </data>
+ </layer>
+ <layer name="building" width="14" height="8">
+  <data encoding="base64" compression="zlib">
+   eJwrZGBgKKQjHu6AnmEJwgDVaxi5
+  </data>
+ </layer>
+</map>
